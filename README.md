@@ -34,7 +34,7 @@ Inside your **main** function, use *home* as **SplashScreen(_)**, the parameters
 
 > **animationEffect**(not require -  default: **'fade-in'**): change animation of logo. There are: **'fade-in'**, **'zoom-in'**, **'zoom-out'**, **'top-down'**.
 
-<img src="https://github.com/isaccanedo/Flutter_Custom_Splash/master/example/assets/splash-animation-top-down.2019-09-09%2011_12_06.gif" width="230" height="440" alt="ProgressDialog Demo" />
+<img src="https://github.com/isaccanedo/Flutter_Custom_Splash/blob/master/example/assets/splash-animation-top-down.2019-09-09%2011_12_06.gif" width="230" height="440" alt="ProgressDialog Demo" />
 
 > **logoSize**(not require -  default: 250): custom size of logo
 
