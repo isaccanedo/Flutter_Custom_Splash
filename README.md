@@ -2,7 +2,7 @@
 
 A Flutter package to custom splash screen: change logo icon, logo animation, and splash screen background color. (Custom from animated splash screen)
 
-<img src="https://github.com/isaccanedo/Flutter_Custom_Splash/master/example/assets/splash-animation-zoom-out.2019-09-09%2011_18_24.gif" width="230" height="440" alt="ProgressDialog Demo" />
+<img src="https://github.com/isaccanedo/Flutter_Custom_Splash/blob/master/example/assets/splash-animation-zoom-out.2019-09-09%2011_18_24.gif" width="230" height="440" alt="ProgressDialog Demo" />
 
 ### Using the package
 
